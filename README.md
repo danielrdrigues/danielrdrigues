@@ -5,6 +5,8 @@ Stacks = any the project needs.
 + Focus on getting it to work, then how to improve 
 - Focus on what is cool and isn't tested
 ```  
+Main Stack: 
+C#, .NET, Python, LUA, GO  
 
 Languages: **LUA**, **C#**, C++, **Javascript**, **GO**, **Python**, Visual Basic  
 Frameworks: **.NET**, Hugo, React, Node.JS  
@@ -13,8 +15,6 @@ Tools: Git, Github, AWS, Trello, Notion, Slack, Postman, Burp Suite
 Databases: MySql, PostgreSQL, MongoDB, MariaDB  
 Best Practices: Clean Code, DDD, SOLID, Metodologias Ágeis, Object Calisthenics  
 
-Focus: 
-C#, .NET, Python, LUA, GO  
 Backend Develoment, Performance, Data Science, Game Development  
 
 <div >
