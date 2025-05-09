@@ -6,7 +6,7 @@ Stacks = any the project needs.
 - Focus on what is cool and isn't tested
 ```  
 Main Stack: 
-C#, .NET, Python, LUA, GO  
+C#, .NET, Python, LUA, JavaScript, GO  
 
 Languages: **LUA**, **C#**, C++, **Javascript**, **GO**, **Python**, Visual Basic  
 Frameworks: **.NET**, Hugo, React, Node.JS  
