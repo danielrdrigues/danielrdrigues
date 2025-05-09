@@ -6,16 +6,16 @@ Stacks = any the project needs.
 - Focus on what is cool and isn't tested
 ```  
 
-Languages: LUA, C#, C++, Javascript, GO, Python, Visual Basic
-Frameworks: .NET, Hugo, React, Node.JS
-Libraries: Shadcn/ui, MaterialUI, Tailwind, jQuery, Bootstrap
-Tools: Git, Github, AWS, Trello, Notion, Slack, Postman, Burp Suite
-Databases: MySql, PostgreSQL, MongoDB
-Best Practices: Clean Code, DDD, SOLID, Metodologias Ágeis, Object Calisthenics
+Languages: **LUA**, **C#**, C++, **Javascript**, **GO**, **Python**, Visual Basic  
+Frameworks: **.NET**, Hugo, React, Node.JS  
+Libraries: Shadcn/ui, MaterialUI, Tailwind, jQuery, Bootstrap  
+Tools: Git, Github, AWS, Trello, Notion, Slack, Postman, Burp Suite  
+Databases: MySql, PostgreSQL, MongoDB, MariaDB  
+Best Practices: Clean Code, DDD, SOLID, Metodologias Ágeis, Object Calisthenics  
 
 Focus: 
-Backend Develoment, Performance, Game Development
-
+C#, .NET, Python, LUA, GO  
+Backend Develoment, Performance, Data Science, Game Development  
 
 <div >
 	<code><img width="25" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
